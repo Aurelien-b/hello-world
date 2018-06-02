@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-du vrai texte cette fois pour tester le push.
-=======
-fazjbeflazef
-llllllllllllllllllllll
->>>>>>> 65bbe1879edc49d232b844a40da174cfae7ea7fa
+enfin le push à marché ! en fait il faut vraiment git status tout le temps, dès que le working tree est clean, tu peux push (mais avant faut add le fichier modifié puis le commit. Ensuite enfin tu peux push. Sauf si le master de GitHub est modifié à ce moment il faut pull puis add puis commit et enfin push pour que les 2 modif mergent) 
